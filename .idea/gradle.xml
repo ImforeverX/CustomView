@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImageLoader" />
+            <option value="$PROJECT_DIR$/PullToRefreshLibrary" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cache_clear" />
+            <option value="$PROJECT_DIR$/dbutils" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/glide_picaso_获取屏幕宽高" />
+            <option value="$PROJECT_DIR$/okh" />
+            <option value="$PROJECT_DIR$/padvertisement_viewpager" />
+            <option value="$PROJECT_DIR$/payment_支付" />
+            <option value="$PROJECT_DIR$/propertyanimation" />
+            <option value="$PROJECT_DIR$/qr_code" />
+            <option value="$PROJECT_DIR$/recycler_my" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/selfswitchdemo" />
+            <option value="$PROJECT_DIR$/self定义属性" />
+            <option value="$PROJECT_DIR$/shopping" />
+            <option value="$PROJECT_DIR$/tablayout" />
+            <option value="$PROJECT_DIR$/volleydemodd" />
+            <option value="$PROJECT_DIR$/youku_menu" />
+            <option value="$PROJECT_DIR$/下拉框" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImageLoader" />
+            <option value="$PROJECT_DIR$/PullToRefreshLibrary" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cache_clear" />
+            <option value="$PROJECT_DIR$/dbutils" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/glide_picaso_获取屏幕宽高" />
+            <option value="$PROJECT_DIR$/okh" />
+            <option value="$PROJECT_DIR$/padvertisement_viewpager" />
+            <option value="$PROJECT_DIR$/payment_支付" />
+            <option value="$PROJECT_DIR$/propertyanimation" />
+            <option value="$PROJECT_DIR$/qr_code" />
+            <option value="$PROJECT_DIR$/recycler_my" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/selfswitchdemo" />
+            <option value="$PROJECT_DIR$/self定义属性" />
+            <option value="$PROJECT_DIR$/shopping" />
+            <option value="$PROJECT_DIR$/tablayout" />
+            <option value="$PROJECT_DIR$/volleydemodd" />
+            <option value="$PROJECT_DIR$/youku_menu" />
+            <option value="$PROJECT_DIR$/下拉框" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

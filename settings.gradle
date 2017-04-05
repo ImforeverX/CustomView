@@ -1,0 +1,1 @@
+include ':app', ':propertyanimation', ':下拉框', ':youku_menu', ':padvertisement_viewpager', ':selfswitchdemo', ':self定义属性', ':recyclerview', ':eventbus', ':recycler_my', ':volleydemodd', ':glide_picaso_获取屏幕宽高', ':qr_code', ':okh', ':ImageLoader', ':PullToRefreshLibrary', ':shopping', ':dbutils', ':payment_支付', ':cache_clear', ':tablayout'

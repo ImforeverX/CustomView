@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageLoader/ImageLoader.iml" filepath="$PROJECT_DIR$/ImageLoader/ImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache_clear/cache_clear.iml" filepath="$PROJECT_DIR$/cache_clear/cache_clear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbutils/dbutils.iml" filepath="$PROJECT_DIR$/dbutils/dbutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbutils/dbutisl.iml" filepath="$PROJECT_DIR$/dbutils/dbutisl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide_picaso_获取屏幕宽高/glide_picaso.iml" filepath="$PROJECT_DIR$/glide_picaso_获取屏幕宽高/glide_picaso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide_picaso_获取屏幕宽高/glide_picaso_获取屏幕宽高.iml" filepath="$PROJECT_DIR$/glide_picaso_获取屏幕宽高/glide_picaso_获取屏幕宽高.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okh/okh.iml" filepath="$PROJECT_DIR$/okh/okh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padvertisement_viewpager/padvertisement_viewpager.iml" filepath="$PROJECT_DIR$/padvertisement_viewpager/padvertisement_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment_支付/payment_支付.iml" filepath="$PROJECT_DIR$/payment_支付/payment_支付.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimation/propertyanimation.iml" filepath="$PROJECT_DIR$/propertyanimation/propertyanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qr_code/qr_code.iml" filepath="$PROJECT_DIR$/qr_code/qr_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycler_my/recycler_my.iml" filepath="$PROJECT_DIR$/recycler_my/recycler_my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfswitchdemo/selfswitchdemo.iml" filepath="$PROJECT_DIR$/selfswitchdemo/selfswitchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self定义属性/self定义属性.iml" filepath="$PROJECT_DIR$/self定义属性/self定义属性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping/shopping.iml" filepath="$PROJECT_DIR$/shopping/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayout/tablayout.iml" filepath="$PROJECT_DIR$/tablayout/tablayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleydemodd/volleydemodd.iml" filepath="$PROJECT_DIR$/volleydemodd/volleydemodd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youku_menu/youku_menu.iml" filepath="$PROJECT_DIR$/youku_menu/youku_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉框/下拉框.iml" filepath="$PROJECT_DIR$/下拉框/下拉框.iml" />
+    </modules>
+  </component>
+</project>

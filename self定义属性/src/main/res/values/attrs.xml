@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyAttributeView">
+
+        <!--定义一个类型为integer,名字叫my_age的属性  -->
+        <attr name="my_age" format="integer"/>
+
+        <!--定义一个类型为string,名字叫my_name的属性  -->
+        <attr name="my_name" format="string"/>
+
+        <!--定义一个类型为reference和color（这样背景可以通过R引用，
+          也可以使用图片资源）,名字叫my_bg的属性  -->
+        <attr name="my_bg" format="reference|color"/>
+    </declare-styleable>
+
+</resources>
